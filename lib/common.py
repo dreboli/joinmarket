@@ -46,9 +46,12 @@ port = 6697
 usessl = true
 socks5 = false
 socks5_host = localhost
-socks5_port = 9050
+socks5_port = 9050 
+#socks5_port = 9150 # for Tor Browser Bundle
 #for tor
 #host = 6dvj6v5imhny3anf.onion
+#if 6dvj6v5imhny3anf.onion is down, try:
+#host = a2jutl5hpza43yog.onion
 #port = 6697
 #usessl = true
 #socks5 = true
